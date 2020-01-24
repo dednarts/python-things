@@ -1,7 +1,3 @@
-#list of things to do
-#error check and V
-#set up win conditions, need diagonal and vertical
-
 
 
 def print_board(game_board):                                                                #prints board, super simple
